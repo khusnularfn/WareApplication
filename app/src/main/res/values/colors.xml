@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_aplikasi">#17594A</color>
+    <color name="orange_button">#E86A33</color>
+    <color name="biru_button">#2759D9</color>
+    <color name="merah_button">#E90303</color>
+
+</resources>

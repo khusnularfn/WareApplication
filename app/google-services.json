@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614931005819",
+    "project_id": "aplikasigudang-2a179",
+    "storage_bucket": "aplikasigudang-2a179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614931005819:android:9d9cefc8903a1c67e63dde",
+        "android_client_info": {
+          "package_name": "com.example.aplikasigudang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614931005819-fd6ms4re5fss0fer586vg4rkpvcq9leh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSgfp2vwEHoUaGU_tyA2U8oxQzcwhEDG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614931005819-fd6ms4re5fss0fer586vg4rkpvcq9leh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
